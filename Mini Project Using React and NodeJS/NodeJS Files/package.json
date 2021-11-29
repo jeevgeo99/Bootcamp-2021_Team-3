@@ -1,0 +1,19 @@
+{
+  "name": "cart-api",
+  "version": "1.0.0",
+  "description": "Simple Shopping Cart",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "shopping",
+    "cart"
+  ],
+  "author": "jeevgeo99@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
