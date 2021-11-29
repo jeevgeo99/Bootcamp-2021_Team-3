@@ -1,0 +1,10 @@
+.prev {
+  background-color: black;
+  position: absolute;
+  left: 5%;
+  bottom: 5%;
+  /* margin-top: 330px;  */
+
+  /* justify-content: start; */
+  /* justify-content: bottom; */
+}

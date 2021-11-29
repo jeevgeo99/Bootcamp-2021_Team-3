@@ -1,0 +1,30 @@
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.text-line {
+  position: absolute;
+  justify-content: center;
+}
+.contact {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.contact h4 {
+  font-size: 36px;
+  opacity: 90%;
+}
+
+.gender {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.gender {
+  font-size: 36px !important;
+  opacity: 90%;
+  text-align: center;
+  letter-spacing: 0.5;
+}

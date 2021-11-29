@@ -1,0 +1,9 @@
+.next {
+  background-color: black;
+  /* margin-top: 330px; */
+  position: absolute;
+  bottom: 5%;
+  right: 30%;
+  /* justify-content: end;
+  justify-content: bottom; */
+}
